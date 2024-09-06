@@ -1,2 +1,4 @@
-{:python-executable "/workspace/anaconda3/envs/Python-VPP/bin/python"
- :library-path "/workspace/anaconda3/envs/Python-VPP/lib/libpython3.9.so.1.0"}
+{:python-executable "/Users/samikallinen/miniconda3/envs/Python-VPP/bin/python3.9"
+ :library-path "/workspace/anaconda3/envs/Python-VPP/lib/libpython3.9.so.1.0" ;; linux
+;; :library-path "/Users/samikallinen/miniconda3/envs/Python-VPP/lib/libpython3.9.dylib" ;; mac-os
+ }
